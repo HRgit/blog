@@ -5,16 +5,16 @@
         <description>KSUWDC - Kyle Kinnaman</description>
         <link>http://example.ksuwdc.com</link>
         <link>http://example.ksuwdc.com</link>
-        <lastBuildDate>2013-09-15T14:07:41-04:00</lastBuildDate>
-        <pubDate>2013-09-15T14:07:41-04:00</pubDate>
+        <lastBuildDate>2013-09-15T14:39:25-04:00</lastBuildDate>
+        <pubDate>2013-09-15T14:39:25-04:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>test post</title>
-                <description></description>
-                <link>http://example.ksuwdc.com/2013/09/15/test-post</link>
-                <guid>http://example.ksuwdc.com/2013/09/15/test-post</guid>
+                <title>Every Time I Roll The Dice</title>
+                <description>&lt;iframe height='315' frameborder='0' allowfullscreen='true' width='420' src='//www.youtube.com/embed/q7tFeVLNH5E&amp;t=0m05s' /&gt;</description>
+                <link>http://example.ksuwdc.com/music/2013/09/15/test-post</link>
+                <guid>http://example.ksuwdc.com/music/2013/09/15/test-post</guid>
                 <pubDate>2013-09-15T00:00:00-04:00</pubDate>
         </item>
 
