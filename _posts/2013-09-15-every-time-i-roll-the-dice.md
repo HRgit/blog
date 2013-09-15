@@ -8,4 +8,4 @@ tags: [blues,music,youtube,tutorial]
 ---
 {% include JB/setup %}
 
-<iframe width="90%" src="//www.youtube.com/embed/q7tFeVLNH5E" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe class="youtube" width="100%" src="//www.youtube.com/embed/q7tFeVLNH5E" frameborder="0" allowfullscreen="true"> </iframe>
