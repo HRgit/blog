@@ -5,14 +5,14 @@
         <description>KSUWDC - Kyle Kinnaman</description>
         <link>http://example.ksuwdc.com</link>
         <link>http://example.ksuwdc.com</link>
-        <lastBuildDate>2013-09-15T18:45:16-04:00</lastBuildDate>
-        <pubDate>2013-09-15T18:45:16-04:00</pubDate>
+        <lastBuildDate>2013-09-15T19:03:03-04:00</lastBuildDate>
+        <pubDate>2013-09-15T19:03:03-04:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Every Time I Roll The Dice</title>
-                <description>&lt;img width='90%' src='http://upload.wikimedia.org/wikipedia/commons/1/13/Body_painting_-_HTML5.jpg' /&gt;&lt;iframe width='420' height='315' frameborder='0' src='//www.youtube.com/embed/q7tFeVLNH5E' allowfullscreen='true'&gt; &lt;/iframe&gt;</description>
+                <description>&lt;iframe src='//www.youtube.com/embed/q7tFeVLNH5E' frameborder='0' width='420' height='315' allowfullscreen='true'&gt; &lt;/iframe&gt;</description>
                 <link>http://example.ksuwdc.com/music/2013/09/15/every-time-i-roll-the-dice</link>
                 <guid>http://example.ksuwdc.com/music/2013/09/15/every-time-i-roll-the-dice</guid>
                 <pubDate>2013-09-15T00:00:00-04:00</pubDate>

@@ -4,7 +4,7 @@ title: "Every Time I Roll The Dice"
 tagline: "Delbert McClinton"
 description: "Austin City Limits, 1992"
 category: "music"
-tags: [blues,music,youtube]
+tags: [blues,music,youtube,tutorial]
 ---
 {% include JB/setup %}
 
