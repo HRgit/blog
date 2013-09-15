@@ -1,11 +1,12 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://example.ksuwdc.com/archive.html
+http://example.ksuwdc.com/atom.xml
+http://example.ksuwdc.com/categories.html
+http://example.ksuwdc.com/index.html
+http://example.ksuwdc.com/pages.html
+http://example.ksuwdc.com/rss.xml
+http://example.ksuwdc.com/sitemap.txt
+http://example.ksuwdc.com/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://example.ksuwdc.com/2013/09/15/test-post
+http://example.ksuwdc.com/lessons/2011/12/29/jekyll-introduction
