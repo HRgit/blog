@@ -4,7 +4,7 @@
  <title>KSUWDC</title>
  <link href="http://example.ksuwdc.com/" rel="self"/>
  <link href="http://example.ksuwdc.com"/>
- <updated>2013-09-15T19:55:28-04:00</updated>
+ <updated>2013-09-16T09:57:05-04:00</updated>
  <id>http://example.ksuwdc.com</id>
  <author>
    <name>Kyle Kinnaman</name>
@@ -17,7 +17,7 @@
    <link href="http://example.ksuwdc.com/music/2013/09/15/every-time-i-roll-the-dice"/>
    <updated>2013-09-15T00:00:00-04:00</updated>
    <id>http://example.ksuwdc.com/music/2013/09/15/every-time-i-roll-the-dice</id>
-   <content type="html">&lt;iframe src='//www.youtube.com/embed/q7tFeVLNH5E' allowfullscreen='true' frameborder='0' class='youtube'&gt; &lt;/iframe&gt;&lt;iframe src='//www.youtube.com/embed/9pmPa_KxsAM' allowfullscreen='true' frameborder='0' class='youtube'&gt; &lt;/iframe&gt;</content>
+   <content type="html">&lt;iframe class='youtube' frameborder='0' src='//www.youtube.com/embed/q7tFeVLNH5E' allowfullscreen='true'&gt; &lt;/iframe&gt;</content>
  </entry>
  
  <entry>
