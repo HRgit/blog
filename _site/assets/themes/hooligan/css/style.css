@@ -403,3 +403,8 @@ div.sidebar section img.icon {
   -o-border-radius: 5px;
   border-radius: 5px;
 }
+
+.youtube {
+  min-height: 57.5%;
+  width: 100%;
+}
