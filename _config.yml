@@ -15,7 +15,7 @@ author :
   feedburner : kylekinnaman
   print : print
   twitter : kylekinnaman
-production_url : http://example.ksuwdc.com
+#production_url : http://example.ksuwdc.com
 JB :
   version : 0.3.0
   BASE_PATH : /blog
