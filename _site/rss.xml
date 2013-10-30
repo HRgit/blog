@@ -5,10 +5,20 @@
         <description>KSUWDC - Kyle Kinnaman</description>
         <link>http://example.ksuwdc.com</link>
         <link>http://example.ksuwdc.com</link>
-        <lastBuildDate>2013-09-16T09:57:05-04:00</lastBuildDate>
-        <pubDate>2013-09-16T09:57:05-04:00</pubDate>
+        <lastBuildDate>2013-09-27T16:47:10-04:00</lastBuildDate>
+        <pubDate>2013-09-27T16:47:10-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Testing Texts OSX App</title>
+                <description>&lt;p&gt;Foo. This is a thing about stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.google.com'&gt;&lt;img alt='1' src='http://s.imwx.com/dru/2013/07/10e0780e-38e6-4c27-9d09-f618da54b257_650x366.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://example.ksuwdc.com/blogging/2013/09/27/test-texts</link>
+                <guid>http://example.ksuwdc.com/blogging/2013/09/27/test-texts</guid>
+                <pubDate>2013-09-27T00:00:00-04:00</pubDate>
+        </item>
 
         <item>
                 <title>Every Time I Roll The Dice</title>
