@@ -1,0 +1,11 @@
+.zocial:active {
+	outline: none; /* outline is visible on :focus */
+}
+
+.zocial.gmail:before {content: "\E04C";}
+.zocial.googleplus:before {content: "\E00A";}
+.zocial.html5:before {content: "\E014";}
+.zocial.linkedin:before {content: "\E02B";}
+.zocial.print:before {content: "\E06B";}
+.zocial.rss:before {content: "\E031";}
+.zocial.twitter:before {content: "\E033";}

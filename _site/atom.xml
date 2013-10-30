@@ -4,13 +4,23 @@
  <title>KSUWDC</title>
  <link href="http://example.ksuwdc.com/" rel="self"/>
  <link href="http://example.ksuwdc.com"/>
- <updated>2013-09-16T09:57:05-04:00</updated>
+ <updated>2013-09-27T16:47:10-04:00</updated>
  <id>http://example.ksuwdc.com</id>
  <author>
    <name>Kyle Kinnaman</name>
    <email>kyle.kinnaman@ksuwdc.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Testing Texts OSX App</title>
+   <link href="http://example.ksuwdc.com/blogging/2013/09/27/test-texts"/>
+   <updated>2013-09-27T00:00:00-04:00</updated>
+   <id>http://example.ksuwdc.com/blogging/2013/09/27/test-texts</id>
+   <content type="html">&lt;p&gt;Foo. This is a thing about stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.google.com'&gt;&lt;img alt='1' src='http://s.imwx.com/dru/2013/07/10e0780e-38e6-4c27-9d09-f618da54b257_650x366.jpg' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Every Time I Roll The Dice</title>

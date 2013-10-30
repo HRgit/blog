@@ -194,7 +194,7 @@ hr {
 div.pagination li a {
   -webkit-box-shadow: 0px 1px 1px black;
   -moz-box-shadow: 0px 1px 1px black;
-  box-shadow: 0px 1px 1px black;
+  box-shadow: 0px 1px 1px purple;
 }
 
 /* Buttons */
