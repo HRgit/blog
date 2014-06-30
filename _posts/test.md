@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Testing"
+---
+{% include JB/setup %}
+
 ## Testing here. Let's see what works.
 
 I really hate [Markdown](http://daringfireball.net/projects/markdown/). It's just one more syntax to remember.
