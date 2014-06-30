@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Testing"
-tagline: "Testing"
-description: "Testing"
-category: "testing"
-tags: [testing]
+title: Testing
+tagline: Testing
+description: Testing
+category: testing
+tags: 
+  - testing
+published: true
 ---
+
 {% include JB/setup %}
 
-## Testing here. Let's see what works.
+## Kyle's testing here. Let's see what works.
 
 I really hate [Markdown](http://daringfireball.net/projects/markdown/). It's just one more syntax to remember.
 
