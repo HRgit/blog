@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Testing"
+tagline: "Testing"
+description: "Testing"
+category: "testing"
+tags: [testing]
 ---
 {% include JB/setup %}
 
